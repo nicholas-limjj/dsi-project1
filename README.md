@@ -1,6 +1,4 @@
-# Executive Statement
-
-The new format for the SAT was released in March 2016. As an employee of the College Board - the organization that administers the SAT - you are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Your presentation and report should be geared toward non-technical executives with the College Board and you will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a state of your choice.
+# Recommendations to increase participation rate of SAT in Tennessee
 
 ## Executive Summary
 
@@ -26,5 +24,10 @@ The new format for the SAT was released in March 2016. As an employee of the Col
 |total_sat_2017|int|SAT|Average combined SAT score of all subjects of the state in 2017|
 
 ## Recommendations
+- Work with Tennessee’s Department of Education on aligning SAT’s scope with what TNReady provides
+- Call for greater push to make SAT the more preferred test within Tennessee
 
 ## Conclusions
+- Recommendations on improving participation rate in Tennessee is greatly dependent on cooperation with the Education Department
+- Follow-up will need to be done should they be willing to work together to enforce implementation of SAT state-wide
+- More insights could be gathered if we can drill down our information to the schools within the state to understand the dynamics and the performance of the students from the various schools
